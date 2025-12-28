@@ -2,3 +2,5 @@ A fileok nevében a számozás a tanárnő által felosztott oldalszámokra vona
 
 
 már össze-vissza vannak lmao:O
+
+Na mostmár megcsináltam a számozást
